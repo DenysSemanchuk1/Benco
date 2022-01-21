@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="shopping-cart" unicode="&#xe800;" d="M375-67c23 0 42 19 42 42 0 23-19 42-42 42-23 0-42-19-42-42 0-23 19-42 42-42z m458 0c23 0 42 19 42 42 0 23-19 42-42 42-23 0-41-19-41-42 0-23 18-42 41-42z m-791 875h166l112-558c4-19 14-36 30-48 15-12 34-19 53-19h405c20 0 39 7 54 19 15 12 26 29 30 48l66 350h-708" horiz-adv-x="1000" />
+
+<glyph glyph-name="headphone" unicode="&#xe801;" d="" horiz-adv-x="1000" />
+
+<glyph glyph-name="left" unicode="&#xe802;" d="M500-150l118 117-382 383 382 383-118 117-500-500 500-500z" horiz-adv-x="667" />
+
+<glyph glyph-name="right" unicode="&#xe803;" d="M167 850l-118-117 382-383-382-383 118-117 500 500-500 500z" horiz-adv-x="667" />
+
+<glyph glyph-name="search" unicode="&#xe804;" d="M458 58c184 0 334 150 334 334 0 184-150 333-334 333-184 0-333-149-333-333 0-184 149-334 333-334z m417-83l-181 181" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
